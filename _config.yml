@@ -21,15 +21,11 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
-  # youyan: 2122392
-  # laibili: MTAyMC8yODgzNC81NDA0
+  disqus: smin
   gitalk: true
 
 # Website analytics
 google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
 
 # Author information:
 author:
