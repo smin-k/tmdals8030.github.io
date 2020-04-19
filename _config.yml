@@ -34,17 +34,16 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong. This is my online home & blog, where I share thoughts about front-end development, cloud computing, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
- 
+  name: 승민     #the name of Blog section
+  about_me: 안녕하세요!
 # Social Links
-email:               hi@ikongsong.com
+email:               a7965344@gmail.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            김승민
+github:              tmdals8030
+stackoverflow:      13048654/김승민   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:         
 #xing:              username
 #instagram:          username
 #lastfm:            username
